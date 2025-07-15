@@ -1,0 +1,10 @@
+Flask
+python-dotenv
+gunicorn
+Flask-Limiter
+requests-oauthlib
+Flask-JWT-Extended
+stripe
+pytest
+ruff
+black
